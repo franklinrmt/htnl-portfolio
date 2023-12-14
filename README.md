@@ -1,2 +1,2 @@
-# htnl-portfolio
+# html-portfolio
 portfolio
